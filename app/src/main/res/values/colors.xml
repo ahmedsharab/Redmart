@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#E72743</color>
+    <color name="red_dark">#CA203A</color>
+    <color name="red_light">#55E72743</color>
+    <color name="gray_dark">#D5D5D5</color>
+    <color name="gray_light">#F1F1F1</color>
+    <color name="list_background_normal">@color/gray_light</color>
+    <color name="indicator_fill_color">@color/red</color>
+    <color name="indicator_empty_color">@android:color/white</color>
+    <color name="app_background_color">@color/gray_dark</color>
+    <color name="actionbar_text">@android:color/white</color>
+
+</resources>
